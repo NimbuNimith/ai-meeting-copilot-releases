@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "version": "0.9.0",
+  "notes": "Self-updating: the copilot now offers new versions itself. Audio reconnect and the 'No speech heard' alert from 0.8.0.",
+  "installer": {
+    "url": "https://github.com/NimbuNimith/ai-meeting-copilot-releases/releases/download/v0.9.0/AIMeetingCopilot-Setup-0.9.0.exe",
+    "sha256": "9164e144edb6797949044f8e9d8dd3d5efce63a639fc818189ba68193ea5b437",
+    "size": 54136787
+  }
+}
